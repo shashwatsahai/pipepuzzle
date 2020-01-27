@@ -1,0 +1,15 @@
+.tr{
+    width: 100%;
+    height: 100%;
+}
+.td{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color: bisque;
+}
+.tdblank{
+    font-size: 30px;
+    border: 1px solid black;
+    text-align: center;
+}
