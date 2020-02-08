@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pipepuzzle/build/index.html/static/css/main.486046b1.chunk.css",
-    "main.js": "/pipepuzzle/build/index.html/static/js/main.83b6cd0c.chunk.js",
-    "main.js.map": "/pipepuzzle/build/index.html/static/js/main.83b6cd0c.chunk.js.map",
-    "runtime-main.js": "/pipepuzzle/build/index.html/static/js/runtime-main.29d751e6.js",
-    "runtime-main.js.map": "/pipepuzzle/build/index.html/static/js/runtime-main.29d751e6.js.map",
-    "static/js/2.c90ff8c3.chunk.js": "/pipepuzzle/build/index.html/static/js/2.c90ff8c3.chunk.js",
-    "static/js/2.c90ff8c3.chunk.js.map": "/pipepuzzle/build/index.html/static/js/2.c90ff8c3.chunk.js.map",
-    "index.html": "/pipepuzzle/build/index.html/index.html",
-    "precache-manifest.fc5a34f089656f7622d4314dd3cc0760.js": "/pipepuzzle/build/index.html/precache-manifest.fc5a34f089656f7622d4314dd3cc0760.js",
-    "service-worker.js": "/pipepuzzle/build/index.html/service-worker.js",
-    "static/css/main.486046b1.chunk.css.map": "/pipepuzzle/build/index.html/static/css/main.486046b1.chunk.css.map",
-    "static/js/2.c90ff8c3.chunk.js.LICENSE": "/pipepuzzle/build/index.html/static/js/2.c90ff8c3.chunk.js.LICENSE"
+    "main.css": "/pipepuzzle/static/css/main.486046b1.chunk.css",
+    "main.js": "/pipepuzzle/static/js/main.5d3a47ba.chunk.js",
+    "main.js.map": "/pipepuzzle/static/js/main.5d3a47ba.chunk.js.map",
+    "runtime-main.js": "/pipepuzzle/static/js/runtime-main.b4745c74.js",
+    "runtime-main.js.map": "/pipepuzzle/static/js/runtime-main.b4745c74.js.map",
+    "static/js/2.c90ff8c3.chunk.js": "/pipepuzzle/static/js/2.c90ff8c3.chunk.js",
+    "static/js/2.c90ff8c3.chunk.js.map": "/pipepuzzle/static/js/2.c90ff8c3.chunk.js.map",
+    "index.html": "/pipepuzzle/index.html",
+    "precache-manifest.d91495328b90f2cabe0880daa33363e0.js": "/pipepuzzle/precache-manifest.d91495328b90f2cabe0880daa33363e0.js",
+    "service-worker.js": "/pipepuzzle/service-worker.js",
+    "static/css/main.486046b1.chunk.css.map": "/pipepuzzle/static/css/main.486046b1.chunk.css.map",
+    "static/js/2.c90ff8c3.chunk.js.LICENSE": "/pipepuzzle/static/js/2.c90ff8c3.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.29d751e6.js",
+    "static/js/runtime-main.b4745c74.js",
     "static/js/2.c90ff8c3.chunk.js",
     "static/css/main.486046b1.chunk.css",
-    "static/js/main.83b6cd0c.chunk.js"
+    "static/js/main.5d3a47ba.chunk.js"
   ]
 }
