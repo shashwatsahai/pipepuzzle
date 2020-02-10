@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pipepuzzle/precache-manifest.0e6d72ddfcca16642cb7b7029a2f0b36.js"
+  "/pipepuzzle/precache-manifest.89e37b32481653069c761f4692816b4a.js"
 );
 
 self.addEventListener('message', (event) => {
